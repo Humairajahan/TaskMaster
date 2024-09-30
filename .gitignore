@@ -1,1 +1,3 @@
 taskmaster-venv
+db.sqlite3
+__pycache__
